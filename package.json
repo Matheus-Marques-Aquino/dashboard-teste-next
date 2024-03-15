@@ -1,0 +1,33 @@
+{
+  "name": "dashboard-teste",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-brands-svg-icons": "^6.5.1",
+    "@fortawesome/free-regular-svg-icons": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@popperjs/core": "^2.11.8",
+    "@tailwindcss/forms": "^0.5.7",
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1",
+    "fuse.js": "^7.0.0",
+    "mongodb": "^6.3.0",
+    "next": "14.0.4",
+    "prop-types": "^15.8.1",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^4.12.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
+  }
+}
